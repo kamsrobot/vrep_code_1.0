@@ -8,3 +8,7 @@ Currently in the process of getting python API working with coppeliasim. Waiting
 Project Update 2:
 Please use Project4.ttt code for simulation.
 And just hit the play button in CoppeliaSim
+
+4/12/2020
+Project Update 3:
+Please use Project8.ttt for simulation.
